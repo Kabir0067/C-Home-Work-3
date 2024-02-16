@@ -1,0 +1,15 @@
+D:\C#\Home Work\vazifa1\obj\Debug\net8.0\vazifa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Home Work\vazifa1\obj\Debug\net8.0\vazifa1.AssemblyInfoInputs.cache
+D:\C#\Home Work\vazifa1\obj\Debug\net8.0\vazifa1.AssemblyInfo.cs
+D:\C#\Home Work\vazifa1\obj\Debug\net8.0\vazifa1.csproj.CoreCompileInputs.cache
+D:\C#\Home Work\vazifa1\obj\Debug\net8.0\vazifa1.sourcelink.json
+D:\C#\Home Work\vazifa1\bin\Debug\net8.0\vazifa1.exe
+D:\C#\Home Work\vazifa1\bin\Debug\net8.0\vazifa1.deps.json
+D:\C#\Home Work\vazifa1\bin\Debug\net8.0\vazifa1.runtimeconfig.json
+D:\C#\Home Work\vazifa1\bin\Debug\net8.0\vazifa1.dll
+D:\C#\Home Work\vazifa1\bin\Debug\net8.0\vazifa1.pdb
+D:\C#\Home Work\vazifa1\obj\Debug\net8.0\vazifa1.dll
+D:\C#\Home Work\vazifa1\obj\Debug\net8.0\refint\vazifa1.dll
+D:\C#\Home Work\vazifa1\obj\Debug\net8.0\vazifa1.pdb
+D:\C#\Home Work\vazifa1\obj\Debug\net8.0\vazifa1.genruntimeconfig.cache
+D:\C#\Home Work\vazifa1\obj\Debug\net8.0\ref\vazifa1.dll
